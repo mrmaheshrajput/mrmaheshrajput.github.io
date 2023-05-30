@@ -1,12 +1,38 @@
 # Skills
-| Particulars  | Others |
-| :-----------: |:-------------:|
-| Docker & K8s      | including AWS ECS     |
-| Machine Learning / Data Science | Recommender Systems, NLP, Deep Learning |
-| Python3      | including Django     |
-| AWS | Sagemaker, QuickSight, plus others |
-| CI/CD | Bitbucket Pipelines|
-| SQL | Basic knowledge of C & C++ |
+<table>
+  <thead>
+    <tr>
+      <th>Particulars</th>
+      <th>Others</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Docker &amp; K8s</td>
+      <td>including AWS ECS</td>
+    </tr>
+    <tr>
+      <td>Machine Learning / Data Science</td>
+      <td>Recommender Systems, NLP, Deep Learning</td>
+    </tr>
+    <tr>
+      <td>Python3</td>
+      <td>including Django</td>
+    </tr>
+    <tr>
+      <td>AWS</td>
+      <td>Sagemaker, QuickSight, plus others</td>
+    </tr>
+    <tr>
+      <td>CI/CD</td>
+      <td>Bitbucket Pipelines</td>
+    </tr>
+    <tr>
+      <td>SQL</td>
+      <td>Basic knowledge of C &amp; C++</td>
+    </tr>
+  </tbody>
+</table>
 
 
 # Work History
