@@ -1,39 +1,49 @@
-# Skills
+# Portfolio
+Machine Learning engineer with total of 7 yrs experience in tech. Skilled in handling multiple tasks and building machine learning pipelines end to end. Proven experience in NLP, Recommender Systems and classical algorithms on AWS Sagemaker, K8s & Docker.
+
+# Tools and technologies
 <table>
-  <thead>
-    <tr>
-      <th>Particulars</th>
-      <th>Others</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td>Docker &amp; K8s</td>
-      <td>including AWS ECS</td>
+      <td>AWS Sagemaker - Pipelines, Processing Jobs etc, for workflow orchestration</td>
     </tr>
     <tr>
-      <td>Machine Learning / Data Science</td>
-      <td>Recommender Systems, NLP, Deep Learning</td>
+      <td>Docker &amp; Kubernetes, AWS ECS</td>
     </tr>
     <tr>
-      <td>Python3</td>
-      <td>including Django</td>
+      <td>Machine Learning / Data Science - Recommender Systems, NLP, Deep Learning</td>
     </tr>
     <tr>
-      <td>AWS</td>
-      <td>Sagemaker, QuickSight, plus others</td>
+      <td>Python3 and Django</td>
     </tr>
     <tr>
-      <td>CI/CD</td>
-      <td>Bitbucket Pipelines</td>
+      <td>AWS QuickSight for analytics</td>
     </tr>
     <tr>
-      <td>SQL</td>
-      <td>Basic knowledge of C &amp; C++</td>
+      <td>Streaming ingestion, procesing and analytics, Amazon Kinesis</td>
+    </tr>
+    <tr>
+      <td>CI/CD - Bitbucket Pipelines</td>
+    </tr>
+    <tr>
+      <td>SQL skills and basic knowledge of C &amp; C++</td>
     </tr>
   </tbody>
 </table>
 
+# Articles
+
+- [Revolutionize Your AI Game: Master the Art of Deploying Machine Learning Models Like a Pro!](https://medium.com/@mrmaheshrajput/revolutionize-your-ai-game-master-the-art-of-deploying-machine-learning-models-like-a-pro-7702834ad041)
+<br />**Published on May 21, 2023**
+
+- [Real-time Anomaly Detection: How Amazon Kinesis Can Help You Stay Ahead of the Game](https://medium.com/@mrmaheshrajput/real-time-anomaly-detection-how-amazon-kinesis-can-help-you-stay-ahead-of-the-game-229ae8b32e62)
+<br />**Published on Apr 24, 2023**
+
+- [Unlocking Hidden Revenue: How Conducting an 80–20 Analysis on Customers Can Boost Your Business’s Bottom Line](https://medium.com/@mrmaheshrajput/unlocking-hidden-revenue-how-conducting-an-80-20-analysis-on-customers-can-boost-your-businesss-66307220a996)
+<br />**Published on Apr 22, 2023**
+
+- [Building Knowledge on the Customer Through Machine Learning](https://medium.com/swlh/building-knowledge-on-customer-through-machine-learning-2785b344749f)
+<br />**Published on Jul 4, 2020**
 
 # Work History
 
@@ -50,11 +60,6 @@
 
 -   Initiated a project to generate data insights using NLP (similar to
     AWS QuickSight Q) to meet the constant demand for ad-hoc reports.
-    Currently in the research phase.
-
--   Devised contribution guidelines for the entire DS team. As the
-    second hire in the DS team, I played a key role in increasing the
-    team size by 3x.
 
 ## Freelance ML/AI Solution Provider
 
@@ -68,11 +73,7 @@
     manual work.
 
 -   Designed and developed end-to-end ML solutions across diverse
-    industries, deploying them using Heroku and AWS Lambda.
-
--   Collaborated with teams of high-performing professionals to develop
-    ML frameworks and solutions, reducing costs and optimizing time for
-    business growth.
+    industries, deploying them using Heroku and AWS Lambda, reducing costs and optimizing time for business growth.
 
 ## Data Scientist -- Amrit College
 
@@ -119,51 +120,3 @@
 
 -   Received positive feedback from clients for delivering high-quality
     solutions within budget and on schedule.
-
-# Articles
-
-## Revolutionize Your AI Game: Master the Art of Deploying Machine Learning Models Like a Pro!
-**Published on May 21, 2023**
-```
-A Comprehensive Guide to Effective Deployment Strategies
-Deploying machine learning models is a crucial step in bringing your 
-innovative solutions to life, but it can sometimes feel like a 
-daunting task. Fear not! In this article, I unveil the ultimate 
-secrets to deploying machine learning models like a pro. Whether...
-```
-[Read more](https://medium.com/@mrmaheshrajput/revolutionize-your-ai-game-master-the-art-of-deploying-machine-learning-models-like-a-pro-7702834ad041)
-
-## Real-time Anomaly Detection: How Amazon Kinesis Can Help You Stay Ahead of the Game
-**Published on Apr 24, 2023**
-```
-Anomaly detection is a critical task in data processing, especially 
-when it comes to streaming data. As more and more data is generated 
-in real-time, it’s important to detect any unusual patterns or 
-outliers that may indicate a problem or opportunity. The traditional 
-approach of batch processing cannot keep up with the volume, velocity...
-```
-[Read more](https://medium.com/@mrmaheshrajput/real-time-anomaly-detection-how-amazon-kinesis-can-help-you-stay-ahead-of-the-game-229ae8b32e62)
-
-
-## Unlocking Hidden Revenue: How Conducting an 80–20 Analysis on Customers Can Boost Your Business’s Bottom Line
-**Published on Apr 22, 2023**
-```
-Keeping customers coming back for more is a crucial aspect of building 
-a successful business. By creating loyal customers who repeatedly 
-purchase from your company, you can increase revenue and improve 
-brand reputation. But to create loyal customers one first needs to 
-understand who are loyal customers or who can be converted...
-```
-[Read more](https://medium.com/@mrmaheshrajput/unlocking-hidden-revenue-how-conducting-an-80-20-analysis-on-customers-can-boost-your-businesss-66307220a996)
-
-
-## Building Knowledge on the Customer Through Machine Learning
-**Published on Jul 4, 2020**
-```
-The cost of acquiring new customers is high, so companies are spending 
-more on customer loyalty and retention. Identifying the total value 
-generated by a customer in the entire customer life cycle would help 
-companies in business campaigns and in other activities. So naturally 
-Customer Relationship Management (CRM) becomes a…
-```
-[Read more](https://medium.com/swlh/building-knowledge-on-customer-through-machine-learning-2785b344749f)
