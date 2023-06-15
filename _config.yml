@@ -1,16 +1,13 @@
 theme: jekyll-theme-minimal
 title: Mahesh Rajput
-logo: "https://media.licdn.com/dms/image/C4D03AQHGOpvHveP0XQ/profile-displayphoto-shrink_800_800/0/1622201053028?e=2147483647&v=beta&t=l3PnxLq0PUhAhElYnlejg5M5Rqbm4h-15NuOU8erEhU"
+logo: "/assets/img/1622201053028.jpeg?raw=true"
 description: >
   <div style="text-align: center;">
       <a style="text-decoration:none" href="https://www.linkedin.com/in/maheshrajput/?original_referer=github_portfolio_website">
           <img src="https://cdn-icons-png.flaticon.com/128/3536/3536569.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;">
       </a>
       <a style="text-decoration:none" href="https://medium.com/@mrmaheshrajput">
-          <img src="https://cdn-icons-png.flaticon.com/128/2504/2504925.png" alt="Medium" style="width: 30px; height: 30px; margin-right: 10px;">
-      </a>
-      <a style="text-decoration:none" href="https://github.com/mrmaheshrajput/">
-          <img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" alt="GitHub" style="width: 30px; height: 30px;">
+          <img src="https://cdn-icons-png.flaticon.com/128/2111/2111543.png" alt="Medium" style="width: 30px; height: 30px; margin-right: 10px;">
       </a>
   </div>
   <div style="text-align: center;">
