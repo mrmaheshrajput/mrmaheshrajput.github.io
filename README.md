@@ -33,6 +33,9 @@ Machine Learning engineer with total of 7 yrs experience in tech. Skilled in han
 
 # Articles
 
+- [How to Build an Intelligent QA Chatbot on your data with LLM or ChatGPT](https://medium.com/@mrmaheshrajput/how-to-build-an-intelligent-qa-chatbot-on-your-data-with-llm-or-chatgpt-d0009d256dce)
+<br />**Published on Jul 2, 2023**
+
 - [Unleash Your Inner Artist: Create Stunning Images for Free with Stable Diffusion WebUI — No Coding Skills Needed!](https://medium.com/@mrmaheshrajput/unleash-your-inner-artist-create-stunning-images-for-free-with-stable-diffusion-webui-no-coding-11eb3a4914df)
 <br />**Published on Jun 19, 2023**
 
