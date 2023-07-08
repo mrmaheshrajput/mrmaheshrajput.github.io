@@ -33,6 +33,9 @@ Machine Learning engineer with total of 7 yrs experience in tech. Skilled in han
 
 # Articles
 
+- [Supercharged Analytics with PandasAI and ChatGPT](https://medium.com/@mrmaheshrajput/238e13ca1b9f)
+<br />**Published on Jul 8, 2023**
+
 - [How to Build an Intelligent QA Chatbot on your data with LLM or ChatGPT](https://medium.com/@mrmaheshrajput/how-to-build-an-intelligent-qa-chatbot-on-your-data-with-llm-or-chatgpt-d0009d256dce)
 <br />**Published on Jul 2, 2023**
 
