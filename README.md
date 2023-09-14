@@ -31,7 +31,7 @@ Machine Learning engineer with total of 7 yrs experience in tech. Skilled in han
   </tbody>
 </table>
 
-# Articles
+# Authored Articles
 
 - [How to deploy a LLM chatbot, 4 ways to productionize and bring the LLM chatbot to the customers](https://mrmaheshrajput.medium.com/how-to-deploy-a-llm-chatbot-7f1e10dd202e)
 <br />**Published on Aug 15, 2023**
