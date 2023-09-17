@@ -33,6 +33,9 @@ Machine Learning engineer with total of 7 yrs experience in tech. Skilled in han
 
 # Authored Articles
 
+- [Streamline AI/ML Project Documentation on Jupyter notebook & ReadTheDocs](https://mrmaheshrajput.medium.com/streamline-ai-ml-project-documentation-on-jupyter-notebook-readthedocs-e010869a7ace)
+<br />**Published on Sep 17, 2023**
+
 - [How to deploy a LLM chatbot, 4 ways to productionize and bring the LLM chatbot to the customers](https://mrmaheshrajput.medium.com/how-to-deploy-a-llm-chatbot-7f1e10dd202e)
 <br />**Published on Aug 15, 2023**
 
