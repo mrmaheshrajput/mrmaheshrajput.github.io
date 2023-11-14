@@ -22,6 +22,9 @@
 
 ## ✍️ Authored Articles
 
+- [How to make a Recommender System Chatbot with LLMs](https://mrmaheshrajput.medium.com/how-to-make-a-recommender-system-chatbot-with-llms-770c12bbca4a)
+  - Published on **Nov 13, 2023**
+
 - [Streamline AI/ML Project Documentation on Jupyter notebook & ReadTheDocs](https://mrmaheshrajput.medium.com/streamline-ai-ml-project-documentation-on-jupyter-notebook-readthedocs-e010869a7ace)
   - Published on **Sep 17, 2023**
 
