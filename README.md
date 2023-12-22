@@ -22,6 +22,9 @@
 
 ## ✍️ Authored Articles
 
+- [Deploy Kubernetes cluster on AWS EC2 instances](https://mrmaheshrajput.medium.com/deploy-kubernetes-cluster-on-aws-ec2-instances-f3eeca9e95f1)
+  - Published on **Dec 22, 2023**
+
 - [How to make a Recommender System Chatbot with LLMs](https://mrmaheshrajput.medium.com/how-to-make-a-recommender-system-chatbot-with-llms-770c12bbca4a)
   - Published on **Nov 13, 2023**
 
