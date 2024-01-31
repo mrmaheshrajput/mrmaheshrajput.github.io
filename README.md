@@ -4,19 +4,19 @@
 
 ## 🚀 About Me
 
-- Machine Learning Engineer with **7 years** of tech experience.
-- Skilled in handling multiple tasks and building end-to-end ML pipelines.
-- Proven expertise in **NLP**, **Recommender Systems**, and classical algorithms.
-- Proficient in **AWS SageMaker**, **K8s**, and **Docker**.
+- Machine Learning Engineer with **8 years** of tech experience.
+- Skilled in handling multiple tasks and building end-to-end ML and **LLM** pipelines.
+- Proven expertise in **NLP**, **Recommender Systems**, **Large Language Models** and classical algorithms.
+- Proficient in **AWS SageMaker**, **Kubernetes**, **Docker** and **Apache Kafka**.
 
 ## 💼 Tools and Technologies
 
-- **AWS SageMaker**: Pipelines, Processing Jobs, etc., for workflow orchestration.
-- **Docker & Kubernetes**: AWS ECS for container management.
 - **Machine Learning / Data Science**: Specialized in Recommender Systems, NLP, and Deep Learning.
+- **AWS SageMaker**: Pipelines, Processing Jobs, etc., for workflow orchestration.
+- **Docker & Kubernetes**: and AWS ECS for container orchestration.
+- **Apache Kafka**: Along with Apache Flink and AWS Kinesis for stream processing and real time analytics & anomaly detection.
 - **Python3 and Django**: Proficient in Python and web development.
 - **AWS QuickSight**: For advanced analytics and visualization.
-- **Streaming Ingestion**: Processing and analytics with Amazon Kinesis.
 - **CI/CD**: Bitbucket Pipelines for continuous integration and continuous deployment.
 - **SQL skills** and basic knowledge of **C & C++**.
 
@@ -60,7 +60,7 @@
 
 ## 📅 Work History
 
-- **Machine Learning Engineer** at ExpoPlatform (Full Remote)
+- **Machine Learning Engineer** at ExpoPlatform
   - **Duration**: Feb 2022 - Present
 
 - **Freelance ML/AI Solution Provider**
