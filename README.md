@@ -22,6 +22,9 @@
 
 ## ✍️ Authored Articles
 
+- [How to Productionize Large Language Models \(LLMs\)](https://mrmaheshrajput.medium.com/how-to-productionize-large-language-models-llms-060a4cb1a169)
+  - Published on **Mar 27, 2024**
+
 - [Deploy Kubernetes cluster on AWS EC2 instances](https://mrmaheshrajput.medium.com/deploy-kubernetes-cluster-on-aws-ec2-instances-f3eeca9e95f1)
   - Published on **Dec 22, 2023**
 
