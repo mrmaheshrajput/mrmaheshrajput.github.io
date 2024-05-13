@@ -22,7 +22,7 @@
 
 ## ✍️ Authored Articles
 
-- [Use Sentence Transformers in AWS Lambda with EFS)](https://mrmaheshrajput.medium.com/use-sentence-transformers-in-aws-lambda-with-efs-d99ad6b36436)
+- [Use Sentence Transformers in AWS Lambda with EFS](https://mrmaheshrajput.medium.com/use-sentence-transformers-in-aws-lambda-with-efs-d99ad6b36436)
   - Published on **May 12, 2024**
 
 - [How to Productionize Large Language Models \(LLMs\)](https://mrmaheshrajput.medium.com/how-to-productionize-large-language-models-llms-060a4cb1a169)
