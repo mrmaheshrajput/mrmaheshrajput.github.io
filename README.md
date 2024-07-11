@@ -22,6 +22,9 @@
 
 ## ✍️ Authored Articles
 
+- [Deploy LLM with vLLM on SageMaker in only 13 lines of code](https://mrmaheshrajput.medium.com/deploy-llm-with-vllm-on-sagemaker-in-only-13-lines-of-code-1601f780c0cf)
+  - Published on **Jul 11, 2024**
+
 - [Use Sentence Transformers in AWS Lambda with EFS](https://mrmaheshrajput.medium.com/use-sentence-transformers-in-aws-lambda-with-efs-d99ad6b36436)
   - Published on **May 12, 2024**
 
