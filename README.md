@@ -22,6 +22,12 @@
 
 ## ✍️ Authored Articles
 
+- [Build a Customer Support Assistant with Llama3.1](https://mrmaheshrajput.medium.com/build-a-customer-support-assistant-with-llama3-1-7bf60611e428)
+  - Published on **Aug 19, 2024**
+ 
+- [LLM Cache: The Secret Weapon You’re Overlooking](https://mrmaheshrajput.medium.com/llm-cache-the-secret-weapon-youre-overlooking-a26b6ddab7cc)
+  - Published on **Jul 28, 2024**
+
 - [Deploy LLM with vLLM on SageMaker in only 13 lines of code](https://mrmaheshrajput.medium.com/deploy-llm-with-vllm-on-sagemaker-in-only-13-lines-of-code-1601f780c0cf)
   - Published on **Jul 11, 2024**
 
