@@ -76,10 +76,10 @@
 ## 📅 Work History
 
 - **Senior Software Engineer - Machine Learning** at SupportLogic
-  - **Duration**: Oct 2024 - Present
+  - **Duration**: Sep 2024 - Present
 
 - **Machine Learning Engineer** at ExpoPlatform
-  - **Duration**: Feb 2022 - Oct 2024
+  - **Duration**: Feb 2022 - Sep 2024
 
 - **Freelance ML/AI Solution Provider**
   - **Duration**: Feb 21 - Feb 2022
