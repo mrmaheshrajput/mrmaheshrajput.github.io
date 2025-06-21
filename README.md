@@ -22,6 +22,12 @@
 
 ## ✍️ Authored Articles
 
+- [Apple Research —The Illusion of Thinking: The Thinking Revolution That Wasn’t](https://mrmaheshrajput.medium.com/apple-research-the-illusion-of-thinking-the-thinking-revolution-that-wasnt-2cc2b00b1f0f)
+  - Published on **Jun 8, 2025**
+ 
+- [Neural Networks and LLMs for Time Series Forecasting](https://mrmaheshrajput.medium.com/neural-networks-and-llms-for-time-series-forecasting-db604e6bbf2e)
+  - Published on **May 2, 2025**
+
 - [Build a Customer Support Assistant with Llama3.1](https://mrmaheshrajput.medium.com/build-a-customer-support-assistant-with-llama3-1-7bf60611e428)
   - Published on **Aug 19, 2024**
  
