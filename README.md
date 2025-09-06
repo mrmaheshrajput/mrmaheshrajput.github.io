@@ -1,16 +1,12 @@
 # 👋 Hi, I'm Mahesh Rajput
 
-<div align="center">
-  <img src="/assets/img/self_cartoon.jpg" alt="Mahesh Rajput" width="150" style="border-radius: 50%; border: 3px solid #4CAF50;">
-  
-  ### 🧠 Machine Learning Engineer | 📊 Data Scientist | ☁️ ML Ops Specialist
+### 🧠 Machine Learning Engineer | 📊 Data Scientist | ☁️ ML Ops Specialist
   
   *Bringing Data to Life with Machine Learning for 10+ Years*
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshrajput/)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mrmaheshrajput.medium.com/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshrajput22@gmail.com)
-</div>
 
 ---
 
@@ -111,16 +107,12 @@ I'm a **Senior ML Engineer** with **10+ years** of experience in designing and d
 
 I'm always excited to discuss **ML innovations**, **AI solutions**, and **collaborative opportunities**. Whether you're looking to solve complex data challenges or explore cutting-edge AI applications, let's connect!
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Network-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maheshrajput/)
-  [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium)](https://medium.com/@mrmaheshrajput)
-  [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto:maheshrajput22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Network-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maheshrajput/)
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium)](https://medium.com/@mrmaheshrajput)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto:maheshrajput22@gmail.com)
 
-  ### 📍 Based in Gurugram, India
-  *Open to remote opportunities worldwide*
-
-</div>
+### 📍 Based in Gurugram, India
+*Open to remote opportunities worldwide*
 
 ---
 
