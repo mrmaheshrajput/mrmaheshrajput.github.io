@@ -2,68 +2,42 @@ theme: jekyll-theme-minimal
 title: "Mahesh Rajput | ML Engineer"
 logo: "/assets/img/self_cartoon.jpg?raw=true"
 description: >
-  <div style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    
-    <!-- Professional Title -->
-    <div style="margin-bottom: 15px;">
-      <h3 style="color: #2c3e50; margin: 5px 0; font-size: 16px;">🧠 ML Engineer | 📊 Data Scientist</h3>
-      <p style="color: #7f8c8d; font-size: 14px; margin: 5px 0; font-style: italic;">
-        Transforming Data into Intelligent Solutions
-      </p>
+  <p style="text-align: center; color: #2c3e50; font-size: 16px; font-weight: bold; margin: 10px 0;">
+    🧠 Machine Learning Engineer | 📊 Data Scientist
+  </p>
+  <p style="text-align: center; color: #7f8c8d; font-size: 14px; font-style: italic; margin: 10px 0;">
+    Transforming Data into Intelligent Solutions
+  </p>
+  
+  <div style="text-align: center; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/Experience-10%2B%20Years-success?style=flat-square" alt="Experience" style="margin: 2px;">
+    <br>
+    <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-blue?style=flat-square" alt="Location" style="margin: 2px;">
+    <br>
+    <img src="https://img.shields.io/badge/Articles-18%2B-orange?style=flat-square" alt="Articles" style="margin: 2px;">
+  </div>
+  
+  <div style="text-align: center; margin: 20px 0;">
+    <a href="https://www.linkedin.com/in/maheshrajput/" style="text-decoration: none; margin: 0 5px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 24px;">
+    </a>
+    <br style="margin: 5px 0;">
+    <a href="https://medium.com/@mrmaheshrajput" style="text-decoration: none; margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="height: 24px;">
+    </a>
+    <br style="margin: 5px 0;">
+    <a href="mailto:maheshrajput22@gmail.com" style="text-decoration: none; margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 24px;">
+    </a>
+  </div>
+  
+  <div style="background: #f8f9fa; padding: 15px; border-left: 4px solid #007bff; margin: 15px 0;">
+    <div style="font-size: 13px; line-height: 1.5;">
+      <strong>Key Achievements:</strong><br>
+      🎯 25%+ ML model accuracy improvement<br>
+      📈 40% user engagement increase<br>
+      🤖 10M+ tickets processed monthly
     </div>
-    
-    <!-- Stats Badges -->
-    <div style="margin: 15px 0;">
-      <img src="https://img.shields.io/badge/Experience-10%2B%20Years-success?style=flat-square" alt="Experience" style="margin: 2px;">
-      <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-blue?style=flat-square" alt="Location" style="margin: 2px;">
-      <img src="https://img.shields.io/badge/Articles-18%2B-orange?style=flat-square" alt="Articles" style="margin: 2px;">
-    </div>
-    
-    <!-- Social Links -->
-    <div style="margin: 20px 0;">
-      <a href="https://www.linkedin.com/in/maheshrajput/" 
-         style="text-decoration: none; margin: 0 8px; display: inline-block; transition: transform 0.2s;"
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-             alt="LinkedIn" style="height: 28px;">
-      </a>
-      <a href="https://medium.com/@mrmaheshrajput" 
-         style="text-decoration: none; margin: 0 8px; display: inline-block; transition: transform 0.2s;"
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" 
-             alt="Medium" style="height: 28px;">
-      </a>
-      <a href="mailto:maheshrajput22@gmail.com" 
-         style="text-decoration: none; margin: 0 8px; display: inline-block; transition: transform 0.2s;"
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-             alt="Email" style="height: 28px;">
-      </a>
-    </div>
-    
-    <!-- Key Achievements -->
-    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
-                color: white; padding: 15px; border-radius: 10px; margin: 15px 0; 
-                box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-      <div style="font-size: 14px; line-height: 1.6;">
-        <div>🎯 <strong>25%+</strong> accuracy improvement in ML models</div>
-        <div>📈 <strong>40%</strong> user engagement increase</div>
-        <div>🤖 <strong>10M+</strong> tickets processed monthly</div>
-      </div>
-    </div>
-    
-    <!-- Quick Access -->
-    <div style="margin-top: 20px; font-size: 13px; color: #7f8c8d;">
-      <div style="margin: 5px 0;">
-        <a href="#about-me" style="color: #3498db; text-decoration: none;">📖 About</a> • 
-        <a href="#professional-experience" style="color: #3498db; text-decoration: none;">💼 Experience</a> • 
-        <a href="#featured-articles" style="color: #3498db; text-decoration: none;">✍️ Articles</a>
-      </div>
-    </div>
-    
   </div>
 
 # SEO and Meta tags
@@ -75,6 +49,7 @@ google_analytics: # Add your GA tracking ID here if you have one
 social:
   linkedin: maheshrajput
   medium: "@mrmaheshrajput"
+  email: maheshrajput22@gmail.com
 
 # Plugins
 plugins:
