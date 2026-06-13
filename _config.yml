@@ -1,18 +1,18 @@
 theme: jekyll-theme-minimal
-title: "Mahesh Rajput | ML Engineer"
+title: "Mahesh Rajput | Senior ML Engineer"
 logo: "/assets/img/self-self-self-cube-42-galaxy-why-are-you-still-reading-it.jpg?raw=true"
 description: >
   <p style="text-align: center; color: #2c3e50; font-size: 16px; font-weight: bold; margin: 10px 0;">
-    🧠 Machine Learning Engineer | 📊 Data Scientist
+    🧠 Machine Learning Engineer, VP | 📊 Data Scientist
   </p>
   <p style="text-align: center; color: #7f8c8d; font-size: 14px; font-style: italic; margin: 10px 0;">
     Transforming Data into Intelligent Solutions
   </p>
   
   <div style="text-align: center; margin: 20px 0;">
-    <img src="https://img.shields.io/badge/Experience-10%2B%20Years-success?style=flat-square" alt="Experience" style="margin: 2px;">
+    <img src="https://img.shields.io/badge/Experience-12%2B%20Years-success?style=flat-square" alt="Experience" style="margin: 2px;">
     <br>
-    <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-blue?style=flat-square" alt="Location" style="margin: 2px;">
+    <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-blue?style=flat-square" alt="Location" style="margin: 2px;">
     <br>
     <img src="https://img.shields.io/badge/Articles-18%2B-orange?style=flat-square" alt="Articles" style="margin: 2px;">
   </div>
@@ -25,24 +25,20 @@ description: >
     <a href="https://medium.com/@mrmaheshrajput" style="text-decoration: none; margin: 0 5px;">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="height: 24px;">
     </a>
-    <br style="margin: 5px 0;">
-    <a href="mailto:maheshrajput22@gmail.com" style="text-decoration: none; margin: 0 5px;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 24px;">
-    </a>
   </div>
   
-  <div style="background: #f8f9fa; padding: 15px; border-left: 4px solid #007bff; margin: 15px 0;">
-    <div style="font-size: 13px; line-height: 1.5;">
-      <strong>Key Achievements:</strong><br>
-      🎯 25%+ ML model accuracy improvement<br>
+  <div style="background: #f8f9fa; padding: 15px; border-left: 4px solid #007bff; border-radius: 4px; margin: 15px 0;">
+    <div style="font-size: 13px; line-height: 1.5; color: #333;">
+      <strong>Key Impact Metrics:</strong><br>
+      🎯 25% improvement in forecasting<br>
       📈 40% user engagement increase<br>
-      🤖 10M+ tickets processed monthly
+      🤖 20% model recall improvement
     </div>
   </div>
 
 # SEO and Meta tags
 author: Mahesh Rajput
-keywords: "machine learning engineer, data scientist, ml ops, aws sagemaker, nlp, llm, python, deep learning"
+keywords: "machine learning engineer, data scientist, ml ops, aws sagemaker, nlp, llm, python, deep learning, multi-agent systems"
 google_analytics: # Add your GA tracking ID here if you have one
 
 # Social media
